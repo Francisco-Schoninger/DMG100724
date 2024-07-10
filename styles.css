@@ -1,0 +1,23 @@
+.countryInTheList{
+    background-color: #eaeaea;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    margin-top: 4px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+
+.countryInTheList:hover{
+    cursor: pointer;
+}
+
+.bigUl{
+    font-size: 50px;
+}
+
+.countryListForChangingPosession{
+    height: 400px;
+    width: 200px;
+    border: 2px solid black;
+    padding-bottom: 4px;
+}
